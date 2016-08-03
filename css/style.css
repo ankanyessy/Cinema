@@ -1,0 +1,230 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+.container{
+	max-width: 1280px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.logo img {
+	height: 50px;
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.texto-movie, form {
+	margin: 20px;
+}
+
+.texto-movie a {
+	color: #EBE6E6;
+	font-size: 12px;
+}
+
+.form-group input {
+	height: 30px;
+	border-color: color: #FBF8F8;
+}
+
+.principal {
+	background-image: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	height: 770px;
+	padding: 100px;
+}
+
+.texto-principal {
+	color: #fff;
+	font-family: Helvetica, sans-serif;
+	margin: 0;
+}
+
+.separator {
+	width: 50%;
+	color: #999999;
+	margin: 0px 5px 10px 10px;
+}
+
+.big-hero {
+	margin: 0;
+}
+
+.btn-big {
+	width: 18%;
+	height: 35px;
+	background-color: transparent;
+	border-radius: 7px;
+	color: #5CD437;
+	border-style: solid;
+	border-color: #5CD437;
+}
+
+table {
+	margin: 8px 0 8px -20px;
+	border-spacing: 20px;
+}
+
+table, .iconos p {
+	font-size: 12px;
+}
+
+.font-table {
+	font-weight: lighter;
+	font-family: Arial;
+}
+
+.boton-orange, .boton-orange2, .book-tcket {
+	display: block;
+	width: 45%;
+	height: 45px;
+	margin: 14px 0;
+	border-radius: 6px;
+	border-style: none;
+}
+
+.boton-orange a, .boton-orange2 a {
+	color: #fff;
+}
+
+.boton-orange {
+	background-color: #F4C729;
+}
+
+.boton-orange2 {
+	background-color: #D68A1D;
+}
+
+.imagen-primera img {
+	width: 10%;
+	height: 100px;
+	margin-left: 290px;
+	margin-top: 220px;
+}
+
+.galeria-inicial {
+	background-color: yellow;
+	max-width: 100%;
+	height: 300px;
+	
+}
+
+.galeria {
+	padding: 50px 30px;
+	margin-top: -69px;
+}
+
+
+.inicial-imagen img {
+	width: 100%;
+	padding: 0;
+	height: 200px;
+	margin: 0;
+}
+
+.video .interstellar {
+	height: 300px;
+	background-color: #615D5D;
+}
+
+.interstellar h3 {
+	padding-top: 80px;
+}
+.texto {
+	height: 400px;
+}
+
+.book-tcket {
+	background-color: #C88630;
+	width: 24%;
+	height: 60px;
+}
+
+.book-tcket a {
+	color: #ECE8E8;
+}
+
+
+.texto-get a {
+	color: #CA6767;
+}
+
+.textos1 {
+	margin-top: 50px;
+	padding-right: 20px;
+}
+
+.textos1 h5, .more {
+	margin-top: 20px;
+}
+
+.booktext {
+	margin: 10px 0;
+}
+
+h3, .bg-grey{
+	color: #DEDCDC;
+}
+
+.bg-grey {
+	font-size: 11px;
+
+}
+
+.more {
+	font-size: 12px;
+	color: #EEA946;
+}
+
+.after-text {
+	border-bottom: 2px solid #DEDCDC;
+}
+
+.imagenes-estrenos {
+	margin: 0 0 20px 0;
+}
+
+.imagenes-finales img {
+	height: 280px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.piepagina {
+	background-color: #EBE9E9;
+	padding-top: 40px;
+	color: #AFADAD;
+	font-size: 12px;
+}
+
+.copyright {
+	margin: 18px 0;
+}
+
+.direccion {
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
